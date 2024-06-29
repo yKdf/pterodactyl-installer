@@ -125,7 +125,7 @@ welcome() {
   output "Pterodactyl panel installation script @ $SCRIPT_RELEASE"
   output ""
   output "Copyright (C) 2018 - 2024, Vilhelm Prytz, <vilhelm@prytznet.se>"
-  output "https://github.com/pterodactyl-installer/pterodactyl-installer"
+  output "https://github.com/yKdf/pterodactyl-installer/"
   output ""
   output "This script is not associated with the official Pterodactyl Project."
   output ""
